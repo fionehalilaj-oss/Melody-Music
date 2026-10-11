@@ -13,7 +13,7 @@ Veglat
  Figma
 
 Publikimi
-https://fionehalilaj-oss.github.io/Melody-Music/#genre
+https://fionehalilaj-oss.github.io/Melody-Music/
 
 Kam perdorur ChatGPT per shpjegime, ndihme ne kodim dhe rregullimin e gabimeve. Kodin e kam shqyrtuar dhe pershtatur gjate punes ne projekt.
 
