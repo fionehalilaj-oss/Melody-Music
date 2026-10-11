@@ -1,4 +1,3 @@
 function showMessage() {
-    alert
-    ("Mire se vini ne Melody Music!")
+    alert("Mire se vini ne Melody Music!");
 }
